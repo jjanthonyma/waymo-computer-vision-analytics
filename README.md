@@ -102,7 +102,7 @@ WaymoProject/
 
 
 
-(Add screenshots here)
-
+![Dashboard Preview](images/IMG1.png)
+![Dashboard Preview](images/IMG2.png)
 
 
