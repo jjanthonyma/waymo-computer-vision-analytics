@@ -7,6 +7,8 @@ Computer Vision Analytics project using the Waymo Open Dataset, Python, Pandas, 
 ## Dashboard Preview
 
 ![Dashboard Preview](images/IMG1.png)
+![Dashboard Preview](images/IMG2.png)
+
 
 ---
 
@@ -124,7 +126,7 @@ https://github.com/jjanthonyma
 
 
 
-![Dashboard Preview](images/IMG1.png)
+
 ![Dashboard Preview](images/IMG2.png)
 
 
