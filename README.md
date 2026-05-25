@@ -122,11 +122,4 @@ GitHub:
 https://github.com/jjanthonyma
 
 
-\## Dashboard Preview
-
-
-
-
-![Dashboard Preview](images/IMG2.png)
-
 
